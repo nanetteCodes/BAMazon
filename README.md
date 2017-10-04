@@ -5,7 +5,7 @@
 
 ### - The app will take in orders from customers and deplete stock from the store's inventory.
 
-![](https://user-images.githubusercontent.com/28736699/31204353-5aa9eb8a-a920-11e7-9487-62dd2234adb2.png =200x)
+![screenshot](https://user-images.githubusercontent.com/28736699/31204353-5aa9eb8a-a920-11e7-9487-62dd2234adb2.png)
 ![Screenshot](https://user-images.githubusercontent.com/28736699/31204354-5aaa7578-a920-11e7-801b-725ab3dd12ea.png)
 
 
